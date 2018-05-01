@@ -7,7 +7,7 @@ $(function() {
 	$('strong.dateToday').html(dateToday.getDate() + '/' + (dateToday.getMonth()+1) + '/' + dateToday.getFullYear())
 	// get ajax farmacias de turno
 	$.ajax({
-		url: 'http://farmanet.minsal.cl/index.php/ws/getLocalesTurnos',
+		url: 'js/farmacias01052018.json',
 		type: 'GET',
 		dataType: 'json'
 	}).done(function(data, textStatus, errorThrown) {
