@@ -1,6 +1,8 @@
 # METODOLOGÍAS DE DISEÑO E IMPLANTACIÓN
 
-Autor: Jonathan Ramírez - Universidad Santa Maria - Chile
+**Autor**: Jonathan Ramírez - Universidad Santa Maria - Chile
+
+**Url**: https://jonyram1988.github.io/Tarea-Dos-de-Metodolog-as/
 
 ### EXPLICACIÓN
 
